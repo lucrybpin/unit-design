@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3f725b41bec048848b4df1ba3b7bf704, type: 3}
   m_Name: CharacterMovementDefault
   m_EditorClassIdentifier: 
-  speed: 1
-  angularSpeed: 120
-  acceleration: 8
+  speed: 3.5
+  angularSpeed: 250
+  acceleration: 43

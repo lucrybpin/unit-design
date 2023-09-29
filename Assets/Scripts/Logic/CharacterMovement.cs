@@ -16,8 +16,6 @@ public class CharacterMovement : MonoBehaviour
         set { _currentSpeed = value; }
     }
 
-
-
     public void Init(CharacterMovementData characterMovementData)
     {
         _agent.speed = characterMovementData.speed;
