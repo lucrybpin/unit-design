@@ -1,5 +1,4 @@
 # Unit Design
-Implementation of Unity Vision Sensors for AI.
 
 ![](Assets/Images/00.png)
 
